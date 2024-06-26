@@ -1,5 +1,3 @@
-# Pareto-CL-ICML24
-
 # [Mitigating Catastrophic Forgetting in Online Continual Learning by Modeling Previous Task Interrelations via Pareto Optimization]([https://github.com/WuYichen-97/Meta-Continual-Learning-Revisited-ICLR2024](https://openreview.net/pdf?id=olbTrkWo1D)) 
 ICML'24 (Oral): Mitigating Catastrophic Forgetting in Online Continual Learning by Modeling Previous Task Interrelations via Pareto Optimization  (Official Pytorch implementation).  
 
